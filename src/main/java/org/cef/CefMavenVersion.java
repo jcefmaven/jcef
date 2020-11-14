@@ -8,7 +8,7 @@ package org.cef;
  * JCef git commit reference: {ref}
  * @author Fritz Windisch
  */
-public class CefVersion {
+public class CefMavenVersion {
     /**
      * Retrieves the current Java Binding version.<br/>
      * Current value: {version}
